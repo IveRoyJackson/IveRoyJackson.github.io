@@ -1,0 +1,20 @@
+body{
+    background:url("http://tzhblog.nos-eastchina1.126.net/jingxuan122.jpg");
+    color: white;
+}
+.title{
+    font-size:100px;
+}
+.introduction{
+    font-size: 35px;
+}
+.footer{
+    margin-top: 150px;
+}
+::selection {
+    background:lightblue; 
+}   
+/* mozilla firefox */  
+::-moz-selection {
+    background:lightblue;
+}   
